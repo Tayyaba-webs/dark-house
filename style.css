@@ -1,0 +1,189 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+nav {
+    position: relative;
+    background-color: rgb(251, 248, 248);
+    width: 100%;
+    height: 70px;
+    border-bottom: 4px solid rgb(155, 152, 152);
+}
+nav > ul {
+    position: absolute;
+    top: 20px;
+    right: 150px;
+    color: white;
+    float: 40px right;
+}
+.a , li {
+    display: inline-block;
+    float: right ;
+    margin: 8px 20px;
+    padding: 1px 30px;
+    color: orangered;
+    font-size: 20px;
+}
+nav > #logo-54 {
+    color: white;
+    margin: 8px 20px;
+}
+nav > .a > ul > li:hover {
+    cursor: pointer;
+    color: black;
+    border: 1px solid orangered;
+    font-size:30px ;
+    font-weight: 10px;
+}
+.b ,img {
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+.c {
+    position: absolute;
+    top: 200px;
+    left: 50px;
+    color: white;
+    width: 500px;
+}
+.c > h1 {
+    font-size: 80px;
+    padding: 20px;
+}
+.c > h1 > b {
+    color: orangered;
+}
+.c > button {
+    border-top-left-radius: 15px;
+    border-bottom-right-radius:15px;
+    border: 4px solid orangered;
+    color: white;
+    background-color: orangered;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    font-size: 26px;
+}
+.c > button:hover{
+    cursor: pointer;
+    background-color: none;
+    color: black;
+}
+.e {
+    background-color: rgb(248, 245, 227);
+    height: 470px;
+}
+.e > .f > img {
+    width: 40%;
+    height: 380px;
+    border-radius: 25px;
+    margin: 60px 120px;
+}
+.e > .f > .g{
+    position: absolute;
+    top: 700px;
+    width: 40%;
+    right: 120px;
+}
+.e > .f > .g > h1 {
+    font-size: 80px;
+    padding: 20px;
+}
+.g > h1 > b {
+    color: orangered;
+}
+.g > button {
+    border-top-left-radius: 15px;
+    border-bottom-right-radius:15px;
+    border: 4px solid orangered;
+    color: white;
+    background-color: orangered;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    font-size: 26px;
+}
+.g > button:hover{
+    cursor: pointer;
+    background-color: none;
+    color: black;
+}
+.g > p {
+    text-align: justify;
+}
+.h {
+    background-color: rgb(0, 0, 0);
+    height: 580px;
+}
+.h > .i > h1 {
+    color: orangered;
+    text-align: center;
+}
+.h > .i > p {
+    color: white;
+    text-align: center;
+}
+.h > .i > .j {
+    border: 3px solid white;
+    display: inline-block;
+    width: 400px;
+    margin: 40px;
+    text-align: center;
+}
+.h > .i > .j > img {
+    height: 200px;
+    width: 360px;
+    display: inline-block;
+    padding: 20px;
+}
+.h > .i > .j > h1 {
+    color: orangered;
+    text-align: center;
+}
+.h > .i > .j > p {
+    color: white;
+    text-align: center;
+}
+.h > .i > .j > button {
+border-top-left-radius: 15px;
+border-bottom-right-radius:15px;
+border: 4px solid orangered;
+color: white;
+background-color: orangered;
+text-align: center;
+margin: 20px;
+padding: 10px;
+font-size: 26px;
+width: 150px;
+}
+.h > .i > .j > button:hover{
+cursor: pointer;
+background-color: none;
+color: black;
+}
+.k {
+    background-color: rgb(248, 245, 227);
+    height: 370px;
+}
+.k > .l {
+    display: inline-block;
+    width: 250px;
+    margin: 30px;
+    line-height: 30px;
+    padding: 10px;
+    text-align: center;
+}
+.k > .l > h1 {
+    color: orangered;
+    font-size: 30px;
+}
+i  {
+    color: orangered;
+    font-size: 60px;
+}
+.m {
+    color: orangered;
+    background-color: black;
+    text-align: center;
+}
